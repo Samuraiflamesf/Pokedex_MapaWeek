@@ -1,2 +1,2 @@
-<h1> My Pokedex </h1>
+<h1 alight-text: "center"> My Pokedex </h1>
  
