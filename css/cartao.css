@@ -26,9 +26,8 @@ background-color: var(--cor-tipo1);
   background-color: var(--cor-tipo4);
 }
 
-.cartao-pokemon .nome{
-  display:flex;
-  color:#fff,
+.cartao-pokemon .tipo1,.tipo2,.tipo3,.tipo4{
+  color:#000
 }
 
 .cartao-pokemon .tipo1{
@@ -59,15 +58,17 @@ background-color: var(--cor-tipo1);
   box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 1px, rgba(0, 0, 0, 0.07) 0px 2px 2px, rgba(0, 0, 0, 0.07) 0px 4px 4px, rgba(0, 0, 0, 0.07) 0px 8px 8px, rgba(0, 0, 0, 0.07) 0px 16px 16px;
 }
 
+.cartao-pokemon .nome{
+  display:flex;
+  color:#fff,
+}
+
+
 .cartao-pokemon .detalhes {
   color: rgb(255, 255, 255);
   display: flex;
   align-items: center;
   justify-content: space-between;
-}
-
-.cartao-imagem img{
-  background-image:none;
 }
 
 .cartao-pokemon .info{
@@ -79,8 +80,20 @@ background-color: var(--cor-tipo1);
 .cartao-pokemon .status .skills{
   display: block;
   font-weight: bold;
-
 }
+
+.detelhe .nometipo{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  
+}
+
+.cartao-imagem img{
+  background-image:none;
+}
+
+
 
 .evoluir {
   border: none;

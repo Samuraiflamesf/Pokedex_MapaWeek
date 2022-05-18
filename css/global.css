@@ -1,9 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
 main{
   display: flex;
   align-items:center;
   justify-content: center;
   background-color: #081945;
 }
+
 main::before{
   content: '';
   position: absolute;
@@ -21,13 +31,24 @@ main::after{
   background: #FF25C2;
   clip-path: circle(40% at 10% 10%);
 }
+
+ul{
+  list-style: none;
+}
+
 .cartoes-pokemon{
-  padding: 30px 0px;
-  gap: 30px;
+  padding: 15px 0px;
+  gap: 15px;
   display: flex;
   flex-direction: row;
   flex-wrap: nowrap;
   justify-content:space-around;
   position: relative;
   z-index: 1;
+}
+
+/* Efeito 3d */
+.cartao-pokemon{
+  transform-style: preserve-3d;
+  transform: perspective(750px);
 }
