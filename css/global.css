@@ -1,22 +1,14 @@
 main{
-  min-height: 100vh;
-  min-width: 100vw;
   display: flex;
   align-items:center;
   justify-content: center;
   background-color: #081945;
-}
-body{
-  min-height: 100vh;
-  min-width: 100vw;
 }
 main::before{
   content: '';
   position: absolute;
   top: 0;
   left: 0;
-  width: 100%;
-  height: 100%;
   background: #8319F5;
   clip-path: circle(50% at right 70%);
 }
@@ -26,8 +18,6 @@ main::after{
   position: absolute;
   top: 0;
   left: 0;
-  width: 100%;
-  height: 100%;
   background: #FF25C2;
   clip-path: circle(40% at 10% 10%);
 }
@@ -41,6 +31,3 @@ main::after{
   position: relative;
   z-index: 1;
 }
-
-/* Tentando arrumar proproção
-  proporção é 10:7(1000x700) */

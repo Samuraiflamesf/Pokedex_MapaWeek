@@ -1,0 +1,132 @@
+
+/* Tentando arrumar proproção
+  proporção é 10:7(1000x700) */
+
+body{
+    min-height: 100vh;
+    min-width: 100vw;
+}
+
+main{
+    min-height: 100vh;
+    min-width: 100vw;
+}
+
+main::before{
+    width: 100%;
+    height: 100%;
+}
+
+main::after{
+    width: 100%;
+    height: 100%;   
+}
+
+span{   
+    padding:10px;
+    font-size:42px;
+}
+.pokedex{
+
+}
+.cartoes-pokemon{
+
+}
+.cartao-pokemon{
+    width: 600px;
+    height: 900px;
+    margin: 30px;
+    box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.5);
+    border-radius: 15px;
+    backdrop-filter: blur(5px);
+}
+
+.cartao-pokemon .cartao-topo1{
+    padding: 30px 40px 0;
+}
+
+.cartao-pokemon .cartao-topo2{
+    padding: 30px 40px 0;
+}
+
+.cartao-pokemon .cartao-topo3{
+    padding: 30px 40px 0;
+}
+
+.cartao-pokemon .cartao-topo4{
+    padding: 30px 40px 0;
+}
+
+.cartao-pokemon .nome{
+    font-size: 45px;
+    margin: -10px;
+    margin-bottom: 5px;
+    opacity:0.8;
+    border-radius: 10px;
+    padding: 2px 10px;
+}
+
+.cartao-pokemon .tipo1{
+    font-size: 20px;
+    border-radius: 10px;
+    padding: 2px 10px;
+}
+
+.cartao-pokemon .tipo2{
+    font-size: 20px;
+    border-radius: 10px;
+    padding: 2px 10px;
+}
+
+.cartao-pokemon .tipo3{
+    font-size: 20px;
+    border-radius: 10px;
+    padding: 2px 10px;
+
+}
+
+.cartao-pokemon .tipo4{
+    font-size: 20px;
+    border-radius: 10px;
+    padding: 2px 10px;
+}
+
+.cartao-imagem img{
+    width: 100%;
+    margin-left: 20px;
+}
+
+.cartao-pokemon .info{
+    padding: 50px 30px 50px;
+    margin-top:-50px;
+    border-bottom-left-radius: 8px;
+}
+
+.info .status{
+    font-size:25px;
+    margin-left:10px;
+}
+.sta
+tus h3{
+    font-size:35px; 
+}
+
+.status .skills{
+    font-size:25px;
+    margin-left:10px;
+    margin-block-start: 0.83em;        
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.skills h3{
+    font-size:35px;
+}
+
+.skills .evoluir {
+    padding: 0.6em 2em; 
+    border-radius: 10px;
+    width: 200px;
+    height: 50px;
+}
