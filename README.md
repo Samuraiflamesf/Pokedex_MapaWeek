@@ -1,4 +1,9 @@
 <h1 align="center"> My Pokedex </h1>
+<div align="center">
+  <a href="https://flameboxpokedex.netlify.app/">
+  Link Para testar o site</a>
+<br><br>
+</div>
 <img src="https://github.com/Samuraiflamesf/Pokedex_MapaWeek/blob/main/src/v1.png" wight= 800px>
 <h4 align="center">Site responsivo, de uma mine podex com animação.</h4>
 <ul align="center">
