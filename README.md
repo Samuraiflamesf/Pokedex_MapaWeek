@@ -5,16 +5,18 @@
 <br><br>
 </div>
 <img src="https://github.com/Samuraiflamesf/Pokedex_MapaWeek/blob/main/src/v1.png" wight= 800px>
-<h4 align="center">Site responsivo, de uma mine podex com animação.</h4>
-<ul align="center">
-  <li>Titulo "Escolha seu pokemon - click Aqui" e tocar para pagina para escolher </li>
-  <li>Barra nos Atributos</li>
-  <li>Colocar efeitos auditivos</li>
-  <li>Adicionar Efeito de Evolução</li>
-  <li>Outro?</li>
+<div align="center">
+<h2>Site responsivo, de uma mine podex com animação.</h2>
+  <p> Ideias de implementação:</p>
   
-
-</ul>
+  
+  - [ ] Titulo "Escolha seu pokemon - click Aqui" e tocar para pagina para escolher 
+  - [ ] Barra nos Atributos
+  - [ ] Colocar efeitos auditivos
+  - [ ] Adicionar Efeito de Evolução
+  - [ ] >Outro?</li>
+  
+</div>
 <h4 align="center">Dados dos Pokemons</h4>
 <p align="center">https://www.pokemonunited.nl/pokedex/sm/pikachu/</p>
 <p align="center">https://www.pokemonunited.nl/pokedex/sm/charmander/</p>
