@@ -5,24 +5,25 @@
 <br><br>
 </div>
 <img src="https://github.com/Samuraiflamesf/Pokedex_MapaWeek/blob/main/src/v1.png" wight= 800px>
-<div align="center">
+<div>
 <h2>Site responsivo, de uma mine podex com animação.</h2>
   <p> Ideias de implementação:</p>
   
-  
+  - [ ] Deixa responsivo>
   - [ ] Titulo "Escolha seu pokemon - click Aqui" e tocar para pagina para escolher 
   - [ ] Barra nos Atributos
   - [ ] Colocar efeitos auditivos
   - [ ] Adicionar Efeito de Evolução
-  - [ ] >Outro?</li>
+  - [ ] >Outro?
   
 </div>
-<h4 align="center">Dados dos Pokemons</h4>
-<p align="center">https://www.pokemonunited.nl/pokedex/sm/pikachu/</p>
-<p align="center">https://www.pokemonunited.nl/pokedex/sm/charmander/</p>
-<p align="center">https://www.pokemonunited.nl/pokedex/sm/bulbasaur/</p>
-<p align="center">https://www.pokemonunited.nl/pokedex/sm/squirtle/</p>
-<p align="center">Outros exemplos</p>
-<p align="center">https://lucxssz.github.io/MapaDev-Week-Pokedex/</p>
-<p align="center"></p>
-<p align="center">https://vomoura.github.io/StarterDex/</p>
+<div align="right">
+<h4 >Dados dos Pokemons</h4>
+<p>https://www.pokemonunited.nl/pokedex/sm/pikachu/</p>
+<p >https://www.pokemonunited.nl/pokedex/sm/charmander/</p>
+<p>https://www.pokemonunited.nl/pokedex/sm/bulbasaur/</p>
+<p>https://www.pokemonunited.nl/pokedex/sm/squirtle/</p>
+<h4>Outros exemplos</h4>
+<p>https://lucxssz.github.io/MapaDev-Week-Pokedex/</p>
+<p>https://vomoura.github.io/StarterDex/</p>
+</div>
