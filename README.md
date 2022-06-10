@@ -9,7 +9,7 @@
 <h2>Site responsivo, de uma mine podex com animação.</h2>
   <p> Ideias de implementação:</p>
   
-  - [ ] Deixa responsivo>
+  - [ ] Deixa responsivo
   - [ ] Titulo "Escolha seu pokemon - click Aqui" e tocar para pagina para escolher 
   - [ ] Barra nos Atributos
   - [ ] Colocar efeitos auditivos
