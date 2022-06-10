@@ -17,7 +17,7 @@
   - [ ] >Outro?
   
 </div>
-<div align="right">
+<div align="center">
 <h4 >Dados dos Pokemons</h4>
 <p>https://www.pokemonunited.nl/pokedex/sm/pikachu/</p>
 <p >https://www.pokemonunited.nl/pokedex/sm/charmander/</p>
