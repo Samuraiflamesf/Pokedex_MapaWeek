@@ -1,29 +1,29 @@
-<h1 align="center"> My Pokedex </h1>
 <div align="center">
-  <a href="https://flameboxpokedex.netlify.app/">
-  Link Para testar o site</a>
-<br><br>
-</div>
-<img src="https://github.com/Samuraiflamesf/Pokedex_MapaWeek/blob/main/src/v1.png" wight= 800px>
-<div>
-<h2>Site responsivo, de uma mine podex com animação.</h2>
-  <p> Ideias de implementação:</p>
   
+# My Pokedex - <a href="https://flameboxpokedex.netlify.app/"> Link </a>
+![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+</div>
+
+# Layout
+<img src="https://github.com/Samuraiflamesf/Pokedex_MapaWeek/blob/main/src/v1.png" wight= 800px>
+
+## Implementações/Features  
+
   - [ ] Deixa responsivo
   - [ ] Titulo "Escolha seu pokemon - click Aqui" e tocar para pagina para escolher 
   - [ ] Barra nos Atributos
   - [ ] Colocar efeitos auditivos
   - [ ] Adicionar Efeito de Evolução
-  - [ ] >Outro?
-  
-</div>
-<div align="center">
-<h4 >Dados dos Pokemons</h4>
-<p>https://www.pokemonunited.nl/pokedex/sm/pikachu/</p>
-<p >https://www.pokemonunited.nl/pokedex/sm/charmander/</p>
-<p>https://www.pokemonunited.nl/pokedex/sm/bulbasaur/</p>
-<p>https://www.pokemonunited.nl/pokedex/sm/squirtle/</p>
-<h4>Outros exemplos</h4>
-<p>https://lucxssz.github.io/MapaDev-Week-Pokedex/</p>
-<p>https://vomoura.github.io/StarterDex/</p>
-</div>
+  - [ ] >Outro? 
+
+# Links Complementares
+#### Dados dos Pokemons
+https://www.pokemonunited.nl/pokedex/sm/pikachu/
+https://www.pokemonunited.nl/pokedex/sm/charmander/
+https://www.pokemonunited.nl/pokedex/sm/bulbasaur/
+https://www.pokemonunited.nl/pokedex/sm/squirtle/
+#### Outros exemplos
+https://lucxssz.github.io/MapaDev-Week-Pokedex/
+https://vomoura.github.io/StarterDex/
