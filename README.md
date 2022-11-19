@@ -12,7 +12,8 @@ https://user-images.githubusercontent.com/62897976/185772153-20a790c0-7dec-4a17-
 
 </div>
 
-# 📄 Desafio/Pokedex 📁 ![status-em-andamento](https://user-images.githubusercontent.com/62897976/185768581-1d051a52-2e60-4378-b31d-39028cbfb5c8.svg)
+# 📄 Desafio/Pokedex 📁 
+![status-em-andamento](https://user-images.githubusercontent.com/62897976/185768581-1d051a52-2e60-4378-b31d-39028cbfb5c8.svg)
 
 > Resumo do Projeto: Pokédex desenvolvida usando HTML, CSS e JavaScript. Projeto construído durante a Semana de Programação [MapaDev Week]
 
